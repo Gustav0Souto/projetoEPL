@@ -1,0 +1,188 @@
+header
+{
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 2%;
+  padding: 1.75%;
+  color: #fff;
+  background-color: #081c3b;
+  background-position: center;
+  font-size: 14px;
+}
+
+h1
+{
+  text-align: center;
+}
+
+
+img
+{
+  max-width: 100%;
+  height: auto;
+  padding: 3%;
+  position: relative;
+}
+
+.navigation {
+  position: relative;
+  bottom: 10%;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+nav ul
+{
+  list-style: none;
+  margin: 0;
+  padding: 0.3%;
+  text-align: center;
+}
+  
+nav li
+{
+  display: inline-block;
+
+}
+
+nav a 
+{
+  color: #fff;
+  text-decoration: none;
+  padding: 30px;
+}
+  
+nav a:hover
+{
+  background-color: #555;
+  padding: auto;
+}
+
+
+body
+{
+    font-family: Tahoma, Arial, sans-serif;
+    font-size: 12px; 
+    color: #e5e5e5;
+    margin:0px;
+    padding: 0px; 
+    background-image: url('https://live.staticflickr.com/65535/52928441359_5db18b3848_o.png');
+    opacity:unset;
+    background-repeat: repeat;
+    text-align: justify;
+    max-width: 100%;
+    overflow-x: hidden;
+    background-attachment: scroll;
+    background-position: top center; 
+}
+
+.container /* Conteiner da Home Page */
+{
+    width: 83%;
+    clear: both;
+}
+  
+.left-image
+{
+    float: left;
+    width: 35%;
+    margin-right: 100px; /* Espaçamento entre a imagem e o texto */
+}
+  
+.text-container
+{
+    overflow: hidden; /* Limpa o fluxo de elementos flutuantes */
+    font-size: 19px;
+}
+
+.containerdois /* Conteiner da Home Page */
+{
+    max-width: 90%;
+    margin: 0 auto;
+    padding: 20px;
+}
+ 
+.chart-container
+{
+    display: inline-block;
+    margin: 5px;
+    text-align: center;
+}
+
+.chart-image 
+{
+    max-width: 60%;
+    height: auto;
+}
+  
+.containertres /* Conteiner da página de integrantes */
+{
+    max-width: 90%;
+    clear: both;
+}
+
+.containerquatro /* Conteiner da página de integrantes */
+{
+    width: 90%;
+    clear: both;
+}
+
+.containercinco /* Conteiner da página de gráficos */
+{
+    width: 90%;
+    clear: both;
+}
+
+.containerseis /* Conteiner da página de gráficos */
+{
+    width: 90%;
+    clear: both;
+}
+
+.containersete /* Conteiner da página de gráficos */
+{
+    width: 90%;
+    clear: both;
+}
+
+.containeroito /* Conteiner da página de gráficos */
+{
+    width: 90%;
+    clear: both;
+}
+
+.containernove /* Conteiner da página de gráficos */
+{
+    width: 90%;
+    clear: both;
+}
+
+
+
+
+
+.containertreze /* Conteiner da página de arquivos */
+{
+    width: 90%;
+    clear: both;
+}
+
+
+footer
+{
+    color: #fff;
+    background-color: #081c3b;
+    padding: 20px;
+    text-align: center;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    font-size: 14px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
