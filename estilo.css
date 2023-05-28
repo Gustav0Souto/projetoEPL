@@ -162,11 +162,32 @@ body
     clear: both;
 }
 
-
-
+.containernove /* Conteiner da página de gráficos */
+{
+    width: 90%;
+    clear: both;
+}
 
 
 .containertreze /* Conteiner da página de arquivos */
+{
+    width: 90%;
+    clear: both;
+}
+
+.containerquartoze /* Conteiner da página de arquivos */
+{
+    width: 90%;
+    clear: both;
+}
+
+.containerquinze /* Conteiner da página de arquivos */
+{
+    width: 90%;
+    clear: both;
+}
+
+.containerdezesseis /* Conteiner da página de arquivos */
 {
     width: 90%;
     clear: both;
